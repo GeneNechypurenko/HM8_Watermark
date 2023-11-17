@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LineDrawer", "LineDrawer\Li
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawCircles", "DrawCircles\DrawCircles.csproj", "{429E3E7D-50F5-4F97-AA19-24E0D9989AA0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graph", "Graph\Graph.csproj", "{3FFBA0F4-D447-405F-A507-C836E0D10672}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{429E3E7D-50F5-4F97-AA19-24E0D9989AA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{429E3E7D-50F5-4F97-AA19-24E0D9989AA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{429E3E7D-50F5-4F97-AA19-24E0D9989AA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FFBA0F4-D447-405F-A507-C836E0D10672}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FFBA0F4-D447-405F-A507-C836E0D10672}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FFBA0F4-D447-405F-A507-C836E0D10672}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FFBA0F4-D447-405F-A507-C836E0D10672}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
